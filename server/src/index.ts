@@ -1,2 +1,2 @@
-import { sayMoo } from 'common';
+import { sayMoo } from '@my/common';
 sayMoo();

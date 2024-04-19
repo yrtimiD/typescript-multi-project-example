@@ -1,5 +1,5 @@
 {
-	"name": "server",
+	"name": "@my/server",
 	"version": "1.0.0",
 	"description": "",
 	"main": "index.js",
@@ -13,7 +13,7 @@
 	"author": "",
 	"license": "ISC",
 	"dependencies": {
-		"common": "file:../common"
+		"@my/common": "file:../common"
 	},
 	"devDependencies": {
 		"typescript": "^5.4.3"
