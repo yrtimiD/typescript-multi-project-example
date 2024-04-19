@@ -1,4 +1,4 @@
-# Multi project
+# Typescript Multi Project Example
 
 ## How to run
 
