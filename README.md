@@ -1,12 +1,12 @@
 #Multi project
-##HOW TO
+
+##HOW TO RUN
 
 ```shell
 npm install --prefix common
-npm run watch --prefix common
-cd server
-npm install
-npm run watch &
-npm start
+npm run build --prefix common
+npm install --prefix server
+npm run build --prefix server
+npm start --prefix server
 ```
 

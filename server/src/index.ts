@@ -1,2 +1,2 @@
-import { hello } from 'common';
-hello();
+import { sayMoo } from 'common';
+sayMoo();
